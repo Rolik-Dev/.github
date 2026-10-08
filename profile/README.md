@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rolik-Dev/.github/main/assets/banner.png?v=2" alt="Rolik Dev — разработка цифровых продуктов" width="100%">
+  <img src="https://raw.githubusercontent.com/Rolik-Dev/.github/43274b246a166c8feedbf0913effb47b44b46657/assets/banner.png" alt="Rolik Dev — разработка цифровых продуктов" width="100%">
 </p>
 
 ## О команде
