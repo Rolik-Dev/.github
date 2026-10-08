@@ -1,14 +1,11 @@
-# Профиль Rolik Dev
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rolik-Dev/.github/d84dea0f525ec2dcddb350c90b9ad350df85b2bd/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rolik-Dev/.github/d84dea0f525ec2dcddb350c90b9ad350df85b2bd/assets/banner-light.png">
+  <img alt="Rolik [DEV]" src="https://raw.githubusercontent.com/Rolik-Dev/.github/d84dea0f525ec2dcddb350c90b9ad350df85b2bd/assets/banner-light.png" width="100%">
+</picture>
 
-Оформление публичной страницы [Rolik-Dev](https://github.com/Rolik-Dev).
+**Rolik [DEV] — пространство разработки Rolik.**
 
-- [`profile/README.md`](profile/README.md) — текст профиля организации.
-- [`assets/banner.png`](assets/banner.png) — баннер профиля.
+Мы создаём приложения, сервисы и внутренние инструменты для компании.
 
-Все файлы этого репозитория доступны публично. Здесь размещаются только материалы оформления: без исходного кода продуктов, внутренних ссылок, контактов и конфигурации сервисов.
-
-В репозитории нет общих шаблонов Issues и Pull Requests или файлов политик, наследуемых другими репозиториями организации.
-
-## Обновление оформления
-
-Текст страницы меняется в `profile/README.md`. Баннер хранится в `assets/banner.png`. Существующий фирменный аватар организации сохраняется.
+Здесь объединены цифровые проекты Rolik и работа над ними: от идеи и первых версий до выпуска, обновлений и дальнейшей поддержки. Мы развиваем новые решения и поддерживаем продукты, которыми компания пользуется каждый день.

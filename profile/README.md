@@ -1,23 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rolik-Dev/.github/43274b246a166c8feedbf0913effb47b44b46657/assets/banner.png" alt="Rolik Dev — разработка цифровых продуктов" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rolik-Dev/.github/d84dea0f525ec2dcddb350c90b9ad350df85b2bd/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rolik-Dev/.github/d84dea0f525ec2dcddb350c90b9ad350df85b2bd/assets/banner-light.png">
+  <img alt="Rolik [DEV]" src="https://raw.githubusercontent.com/Rolik-Dev/.github/d84dea0f525ec2dcddb350c90b9ad350df85b2bd/assets/banner-light.png" width="100%">
+</picture>
 
-## О команде
+**Rolik [DEV] — пространство разработки Rolik.**
 
-**Rolik Dev** — пространство разработки цифровых продуктов Rolik.
+Мы создаём приложения, сервисы и внутренние инструменты для компании.
 
-Здесь мы объединяем работу над продуктами, развиваем инженерные практики и поддерживаем решения в течение их жизненного цикла.
-
-### Наш подход
-
-| Продукт | Разработка | Поддержка |
-| :--- | :--- | :--- |
-| Начинаем с задачи и ожидаемого результата. | Делаем изменения понятными и проверяемыми. | Сохраняем контекст в документации и истории решений. |
-
-### Открытые материалы
-
-В этом профиле размещаются материалы, предназначенные для публичного доступа.
-
----
-
-<sub>Rolik Dev · Код, продукт и поддержка.</sub>
+Здесь объединены цифровые проекты Rolik и работа над ними: от идеи и первых версий до выпуска, обновлений и дальнейшей поддержки. Мы развиваем новые решения и поддерживаем продукты, которыми компания пользуется каждый день.
